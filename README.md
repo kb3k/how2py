@@ -46,3 +46,6 @@ Possible future developments include:
 
 This project is licensed under the MIT License. Feel free to use, modify, and distribute the code for your purposes.
 
+## **Disclaimer**
+
+This README.md was created with the assistance of Google's NotebookLM tool.
