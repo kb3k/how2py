@@ -1,2 +1,3 @@
 # how2py
-Code from how2py.com blog posts
+
+Two codes to perform basic webscraping and simulate a random dataset.
